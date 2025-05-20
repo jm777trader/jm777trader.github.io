@@ -5,8 +5,8 @@ body, html {
   font-family: Arial, sans-serif;
 }
 
-.background {
-  background-image: url('background.jpg');
+.fundo {
+  background-image: url('fundo.jpg'); /* ou o nome real da imagem */
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -15,7 +15,7 @@ body, html {
   justify-content: center;
 }
 
-.content {
+.contente {
   background: rgba(0, 0, 0, 0.6);
   padding: 30px;
   border-radius: 10px;
