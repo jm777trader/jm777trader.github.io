@@ -6,7 +6,7 @@ body, html {
 }
 
 .fundo {
-  background-image: url('fundo.jpg'); /* ou o nome real da imagem */
+ background-image: url('background.png');
   background-size: cover;
   background-position: center;
   height: 100vh;
